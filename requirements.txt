@@ -1,6 +1,6 @@
 certifi==2018.8.24
 cffi==1.14.0
-Django==1.11
+Django==1.11.28
 django-bootstrap3==12.0.3
 django-braces==1.14.0
 Faker==4.0.2
